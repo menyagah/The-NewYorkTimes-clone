@@ -12,3 +12,40 @@ body{
     color: #333333;
     
 }
+
+.header{
+    height: 7vh;
+    background-color: cornflowerblue;
+    padding: 0 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.col-left{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: crimson;
+  width: 220px;
+  
+}
+
+.col-center{
+  background-color: chocolate;
+  width: 300px;
+}
+
+.col-right{
+  background-color: blueviolet;
+  width: 300px;
+
+}
+
+.col-left_h1{
+    text-transform: uppercase;
+    font-size: 16px;
+    font-family: 'Bree Serif', serif;
+    line-height: 19px;
+    color: #000000;
+    font-weight: 700;
+}
