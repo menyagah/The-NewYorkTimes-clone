@@ -58,7 +58,6 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  /*background-color: chocolate;*/
   width: 300px;
 }
 
@@ -128,7 +127,6 @@ body{
 
 .main-image__content{
     margin-right: 150px;
-    
     background-color: lightblue;
     height: 2200px;
     width: 600px;
