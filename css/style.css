@@ -11,7 +11,7 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     font-weight: 400;
-    line-height: 30px;
+    line-height: 24px;
     color: #333333;
     
 }
@@ -112,19 +112,63 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: green;
     height: 8000px;
 
 }
 
 .main-image{
     display: flex;
-    align-items: center;
-    background-color: grey;
-    height: 600px;
+    justify-content: center;
+    height: 700px;
     width: 950px;
 }
 
+.main-image_text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 60px;
+}
+
+.main-image_text_h1{
+    margin-left: -230px;
+    padding-bottom: 20px;
+    font-size: 40px;
+    font-weight: 200;
+    font-family: 'Bree Serif', serif;
+    color: #121212;
+
+}
+.main-image_text_h1_2{
+    margin-left: -170px;
+    font-size: 40px;
+    font-weight: 200;
+    font-family: 'Bree Serif', serif;
+    color:#121212;
+    padding-bottom: 40px;
+}
+
+.img_2{
+    background-image: url(../img/18cosmos-superJumbo.jpg);
+    width: 950px;
+    background-size: cover;
+    height: 520px;
+}
+
+.caption{
+  padding-top: 10px;
+  color: #333333;
+  margin-left: -270px;
+  font-size: 14px;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+}
+
+strong{
+    font-size: 13px;
+    font-weight: 400;
+    color: #868484;
+}
 .main-image__content{
     margin-right: 150px;
     background-color: lightblue;
