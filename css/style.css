@@ -222,7 +222,7 @@ body{
 
 .par1{
     
-    margin-right: 150px;
+    margin-right: 110px;
     width: 630px;
     font-size: 22px;
     
@@ -286,12 +286,61 @@ body{
 }
 
 .aside{
-    margin-bottom: -700px;
-    background-color: lightcoral;
+    margin-bottom: 0;
     height: 350px;
-    width: 200px;
+    width: 230px;
+    
 }
 
+.par_4{
+    display: flex;
+    justify-content: flex-start;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    color: #000000;
+    font-size: 14px;
+    padding-bottom: 4px;
+}
+
+.aside_image{
+    background-size: cover;
+    
+}
+
+.aside_bord{
+    padding-bottom: 10px;
+}
+
+.border_side{
+    border-bottom: #c7c7c7 solid 1px;
+    
+
+}
+
+.img_content{
+    font-size:14px;
+    line-height: 17px;
+    margin-left: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+.aside_content{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    padding-bottom: 13px;
+}
+
+.heading_2{
+    display: flex;
+    justify-content: flex-start;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    color: #333333;
+    font-size: 20px;
+    line-height: 30px;
+}
 .sprite_img{
     margin-top: 50px;
     height: 500px;
