@@ -327,16 +327,6 @@ body {
   padding-bottom: 150px;
 }
 
-.heading_2_1 {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-  color: #000;
-  font-size: 20px;
-  line-height: 30px;
-  padding-bottom: 3px;
-}
-
 .author_1 {
   font-size: 14px;
   line-height: 18px;
@@ -468,7 +458,6 @@ body {
   width: 350px;
   color: #fff;
   font-size: 14px;
-  font-weight: 700;
   font-family: "Roboto", sans-serif;
   line-height: 24px;
   text-transform: uppercase;
@@ -643,12 +632,12 @@ body {
   font-weight: 500;
 }
 
-li:hover {
-  text-decoration: underline;
-}
-
 li {
   list-style: none;
+}
+
+li:hover {
+    text-decoration: underline;
 }
 
 nav:last-child {
