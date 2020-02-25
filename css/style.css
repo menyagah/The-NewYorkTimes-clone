@@ -3,7 +3,7 @@ a {
   margin: 0;
   padding: 0;
   text-decoration: none;
-  color: #333333;
+  color: #333;
   box-sizing: border-box;
 }
 
@@ -12,7 +12,7 @@ body {
   font-size: 20px;
   font-weight: 400;
   line-height: 24px;
-  color: #333333;
+  color: #333;
 }
 
 .header {
@@ -29,7 +29,7 @@ body {
 }
 
 .icon-search {
-  color: #000000;
+  color: #000;
 }
 
 .col-left {
@@ -44,7 +44,7 @@ body {
   font-size: 16px;
   font-family: "Bree Serif", serif;
   line-height: 19px;
-  color: #000000;
+  color: #000;
   font-weight: 700;
   text-decoration: none;
 }
@@ -75,9 +75,8 @@ body {
 
 .btn {
   height: 30px;
-  color: #ffffff;
+  color: #fff;
   font-size: 11px;
-  font-weight: 700;
   font-family: "Roboto", sans-serif;
   line-height: 11px;
   text-transform: uppercase;
@@ -153,7 +152,7 @@ body {
 
 .caption {
   padding-top: 10px;
-  color: #333333;
+  color: #333;
   margin-left: -270px;
   font-size: 14px;
   text-align: left;
@@ -176,7 +175,6 @@ body {
 .main-image__content {
   display: flex;
   justify-content: space-between;
-  display: flex;
   align-items: center;
   margin-top: 30px;
   margin-bottom: 30px;
@@ -281,7 +279,7 @@ body {
   justify-content: flex-start;
   font-family: "Roboto", sans-serif;
   align-items: center;
-  color: #000000;
+  color: #000;
   font-size: 14px;
   padding-bottom: 4px;
 }
@@ -318,7 +316,7 @@ body {
   justify-content: flex-start;
   font-family: "Roboto", sans-serif;
   align-items: center;
-  color: #333333;
+  color: #333;
   font-size: 20px;
   line-height: 30px;
 }
@@ -333,7 +331,7 @@ body {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  color: #000000;
+  color: #000;
   font-size: 20px;
   line-height: 30px;
   padding-bottom: 3px;
@@ -350,7 +348,7 @@ body {
 
 .img_sprite {
   background-image: url(../img/inflation.png);
-  background-position: -10px 0px;
+  background-position: -10px 0;
   background-size: cover;
   width: 980px;
   background-repeat: no-repeat;
@@ -361,7 +359,7 @@ body {
   margin-right: 21px;
   display: inline-block;
   width: 220px;
-  color: #000000;
+  color: #000;
   font-weight: 300;
   font-size: 13px;
   vertical-align: top;
@@ -373,7 +371,7 @@ body {
   margin-top: 160px;
   margin-right: 21px;
   display: inline-block;
-  color: #000000;
+  color: #000;
   font-weight: 300;
   width: 220px;
   vertical-align: top;
@@ -391,7 +389,7 @@ body {
 }
 
 .border_sprite_1 {
-  border: #000000 solid 0.8px;
+  border: #000 solid 0.8px;
   width: 70px;
 }
 
@@ -421,7 +419,7 @@ body {
 
 .youtube_caption {
   font-size: 17px;
-  color: #666666;
+  color: #666;
   line-height: 20px;
   padding-bottom: 30px;
 }
@@ -429,7 +427,7 @@ body {
 .small {
   font-size: 15px;
   font-weight: 200;
-  color: #888888;
+  color: #888;
   line-height: 18px;
 }
 
@@ -440,7 +438,7 @@ body {
 .main_end {
   font-size: 13px;
   font-weight: 200;
-  color: #888888;
+  color: #888;
   line-height: 18px;
   padding-bottom: 30px;
 }
@@ -448,7 +446,7 @@ body {
 .links {
   font-size: 13px;
   font-weight: 200;
-  color: #888888;
+  color: #888;
   text-decoration: underline;
 }
 
@@ -468,7 +466,7 @@ body {
   align-items: center;
   height: 40px;
   width: 350px;
-  color: #ffffff;
+  color: #fff;
   font-size: 14px;
   font-weight: 700;
   font-family: "Roboto", sans-serif;
@@ -507,7 +505,7 @@ body {
 }
 
 .border_sprite_2 {
-  border: #000000 solid 0.5px;
+  border: #000 solid 0.5px;
   width: 100%;
 }
 
@@ -518,7 +516,7 @@ body {
   padding-bottom: 15px;
   font-family: "Roboto", sans-serif;
   align-items: center;
-  color: #000000;
+  color: #000;
   font-size: 18px;
   font-weight: 800;
   line-height: 22px;
@@ -553,7 +551,7 @@ body {
 .img_text {
   font-size: 18px;
   font-weight: 500;
-  color: #000000;
+  color: #000;
 }
 
 .month_text {
@@ -564,7 +562,7 @@ body {
 }
 
 .border_sprite_3 {
-  border: #000000 solid 0.5px;
+  border: #000 solid 0.5px;
   width: 100%;
 }
 
@@ -575,7 +573,7 @@ body {
   padding-bottom: 30px;
   font-family: "Roboto", sans-serif;
   align-items: center;
-  color: #000000;
+  color: #000;
   font-size: 18px;
   font-weight: 800;
   line-height: 22px;
