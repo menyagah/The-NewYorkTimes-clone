@@ -2,7 +2,7 @@
 - This is a clone of the New York Times Website.
 - Below is a screenshot of the apple clone in action.
 
-![screenshot](img/screenshot.jpg)
+![screenshot](img/screenshot.png)
 
 
 This was a solo project. The project uses basic html5 and css3. 
