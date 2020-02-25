@@ -110,7 +110,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 15400px;
+    height: 10535px;
 }
 
 .main-image{
@@ -136,6 +136,7 @@ body{
     color: #121212;
 
 }
+
 .main-image_text_h1_2{
     margin-left: -170px;
     font-size: 40px;
@@ -215,7 +216,6 @@ body{
     align-items: center;
 }
 
-
 .par1{
     margin-right: 110px;
     width: 630px;
@@ -263,8 +263,6 @@ body{
     padding-bottom: 10px;
 }
 
-
-
 .bar1{
     border: #c7c7c7 solid .3px;
     width: 100px;
@@ -301,8 +299,6 @@ body{
 
 .border_side{
     border-bottom: #c7c7c7 solid 1px;
-    
-
 }
 
 .img_content{
@@ -332,8 +328,7 @@ body{
 .sprite_img{
     margin-top: 50px;
     width: 950px;
-    padding-bottom: 150px;
-    
+    padding-bottom: 150px; 
 }
 
 .heading_2_1{
@@ -409,7 +404,6 @@ body{
     padding-top: 16px;
     font-weight: 400;
 }
-
 
 .more_content{
     margin-top: -120px;
@@ -500,4 +494,215 @@ body{
 
 .icons-2 {
    padding-right: 13px;
+}
+
+.top_footer{
+    display: flex;
+    padding: 80px;
+    padding-top: 0;
+    height: 1200px;
+}
+
+.footer_content{
+    width: 83%;
+    height: 1000px;
+    margin-right: 38px;
+}
+
+.footer_side{
+    width: 30%;
+
+}
+
+.border_sprite_2{
+    border: #000000 solid .5px;
+    width: 100%;
+}
+
+.heading_2_1{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 22px;
+}
+
+.heading_2_1:hover{
+    text-decoration: underline;
+}
+
+.footer_img{
+    width: 270px;
+    height: 180px;
+    
+}
+
+.image_footer_content{
+    width: 270px;
+    
+}
+
+.img_footer{
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.under_pic{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 12px;
+    color: #636060;
+}
+
+.img_text{
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+    
+}
+
+.month_text{
+   color: #585555;
+   font-size: 12px;
+   line-height: 20px;
+   font-weight: 500;
+}
+
+.border_sprite_3{
+    border: #000000 solid .5px;
+    width: 100%;
+}
+
+.heading_2_2{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 25px;
+    padding-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 800;
+    line-height: 22px;
+}
+
+.border_sprite_4{
+    border: #d8d8d8 solid .5px;
+    width: 100%;
+}
+
+.content_side{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.footer_1{
+    display: flex;
+    flex-direction: column;
+    padding-right: 80px;
+    padding-left: 80px;
+    height: 500px;
+    
+}
+
+
+
+.border_sprite_5{
+    border: #E2E2E2 solid 2px;
+    border-right: none;
+    border-left: none;
+    height: 2px;
+    padding-bottom: 3px;
+    border-bottom:#E2E2E2 solid .9px ;
+    width: 100%;
+    
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    margin-top: 5px;
+}
+
+.logo2{
+    margin-top: 10px;
+    height: 26px;
+    padding: 0; 
+}
+
+.center{
+    display: flex;
+    height: 380px;
+    justify-content: space-between;
+}
+
+.topic{
+    list-style: none;
+    padding-bottom: 7px;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Roboto', sans-serif;
+}
+
+.topic_links{
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+li:hover{
+    text-decoration: underline;
+}
+
+li{
+    list-style: none;
+    
+}
+
+nav:last-child{
+    padding-left: 8px;
+}
+
+.right_link{
+font-size: 12px;
+color: #567B95;
+}
+
+.last_part{
+    border-left:rgb(185, 179, 179) solid .6px;
+    height: auto;
+}
+
+.bottom{
+    margin-top: 5px;
+    
+}
+
+.last_border{
+    border-bottom:rgb(201, 197, 197) solid .9px ;
+}
+
+.last_items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.end{
+    font-size: 12px;
+    padding-right: 15px;
+}
+
+.end:hover{
+    text-decoration: underline;
 }
