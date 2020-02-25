@@ -134,7 +134,6 @@ body{
     font-weight: 200;
     font-family: 'Bree Serif', serif;
     color: #121212;
-
 }
 
 .main-image_text_h1_2{
@@ -325,6 +324,7 @@ body{
     font-size: 20px;
     line-height: 30px;
 }
+
 .sprite_img{
     margin-top: 50px;
     width: 950px;
@@ -369,7 +369,6 @@ body{
     vertical-align: top;
     font-family: 'Roboto', sans-serif;
     line-height: 16px;
-
 }
 
 .sprite_cont-1{
@@ -434,7 +433,6 @@ body{
     font-weight: 200;
     color: #888888;
     line-height: 18px;
-    
 }
 
 .jumbo{
@@ -447,7 +445,6 @@ body{
     color: #888888;
     line-height: 18px;
     padding-bottom: 30px;
-    
 }
 
 .links{
@@ -484,12 +481,10 @@ body{
     border-radius: 4px;
     letter-spacing: 1px;
     font-weight: 900;
-    
 }
 
 .button_end{
     width:300px;
-    
 }
 
 .icons-2 {
@@ -511,7 +506,6 @@ body{
 
 .footer_side{
     width: 30%;
-
 }
 
 .border_sprite_2{
@@ -539,12 +533,10 @@ body{
 .footer_img{
     width: 270px;
     height: 180px;
-    
 }
 
 .image_footer_content{
     width: 270px;
-    
 }
 
 .img_footer{
@@ -564,7 +556,6 @@ body{
     font-size: 18px;
     font-weight: 500;
     color: #000000;
-    
 }
 
 .month_text{
@@ -610,10 +601,7 @@ body{
     padding-right: 80px;
     padding-left: 80px;
     height: 500px;
-    
 }
-
-
 
 .border_sprite_5{
     border: #E2E2E2 solid 2px;
@@ -623,7 +611,6 @@ body{
     padding-bottom: 3px;
     border-bottom:#E2E2E2 solid .9px ;
     width: 100%;
-    
 }
 
 .top{
@@ -685,7 +672,6 @@ color: #567B95;
 
 .bottom{
     margin-top: 5px;
-    
 }
 
 .last_border{
