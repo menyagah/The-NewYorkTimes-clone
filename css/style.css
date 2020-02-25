@@ -637,7 +637,7 @@ li {
 }
 
 li:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 nav:last-child {
