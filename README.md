@@ -15,7 +15,7 @@ This was a solo project. The project uses basic html5 and css3.
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/menyagah/The-NewYorkTimes-clone/ff9880a525e51a26e530624cfb4eb6d67d432402/index.html)
+[Live Demo Link](https://rawcdn.githack.com/menyagah/The-NewYorkTimes-clone/fc04ea47f0b9b42cc52b91bc432e9271e419878b/index.html)
 
 
 ## Getting Started
