@@ -524,6 +524,7 @@ body {
 
 .image_footer_content {
   width: auto;
+  padding-right: 10px;
 }
 
 .img_footer {
