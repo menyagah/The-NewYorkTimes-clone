@@ -1,3 +1,7 @@
+## Live Demo
+
+[Live Demo Link](https://rawcdn.githack.com/menyagah/The-NewYorkTimes-clone/14382ac27f4592d95e7ae5f14d1590e990a6fce7/index.html)
+
 # The-NewYorkTimes-clone
 - This is a clone of the New York Times Website.
 - Below is a screenshot of the apple clone in action.
@@ -11,12 +15,6 @@ This was a solo project. The project uses basic html5 and css3.
 
 - Html5
 - css3
-
-
-## Live Demo
-
-[Live Demo Link](https://rawcdn.githack.com/menyagah/The-NewYorkTimes-clone/14382ac27f4592d95e7ae5f14d1590e990a6fce7/index.html)
-
 
 ## Getting Started
 
